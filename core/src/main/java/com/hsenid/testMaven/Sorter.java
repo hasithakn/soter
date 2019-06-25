@@ -45,6 +45,10 @@ public class Sorter {
         return data;
     }
 
+    public void test() {
+        System.out.println("yolo");
+    }
+
     public void print(int[] data) {
         for (int a : data) {
             System.out.print(a + " ");
