@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test verbose="2" name="/home/hasitha/hasitha/maven_example/maven_assignment/soter/core">
+    <classes>
+      <class name="com.hsenid.testMaven.SorterTest"/>
+    </classes>
+  </test> <!-- /home/hasitha/hasitha/maven_example/maven_assignment/soter/core -->
+</suite> <!-- Failed suite [All Test Suite] -->
