@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/home/hasitha/hasitha/maven_example/maven_assignment/soter/core"><classes><class name="com.hsenid.testMaven.SorterTest"><methods><include name="testInsertionSort1"/><include name="testBubbleSort1"/><include name="testSelectionSort1"/><include name="testInsertionSort2"/><include name="testBubbleSort2"/><include name="testSelectionSort2"/></methods></class></classes></test></suite>
